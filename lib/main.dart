@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primaryColor: Colors.grey,
         ),
-        title: 'Flutter Demo',
+        title: 'App Demo',
         home: DashboardScreen());
   }
 }
